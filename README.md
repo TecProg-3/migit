@@ -1,8 +1,9 @@
+# Test
 **Introducción a Git y su uso colaborativo con repositorios remotos**
 
 Git es un sistema de control de versiones distribuido que permite gestionar el historial de cambios en archivos, especialmente útil en proyectos de desarrollo de software. Con Git, los desarrolladores pueden trabajar en paralelo, mantener un historial claro de las modificaciones y colaborar de manera efectiva sin sobrescribir el trabajo de otros.
 
-### Conceptos básicos
+## Conceptos básicos
 
 * **Repositorio local**: Es la copia del proyecto en tu máquina, que incluye el historial de versiones.
 * **Repositorio remoto**: Es una copia del proyecto alojada en un servidor (por ejemplo, GitHub, GitLab o Bitbucket) que permite la colaboración entre varios usuarios.
