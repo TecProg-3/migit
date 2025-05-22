@@ -236,5 +236,3 @@ def resta(a, b):
 Y los dos desarrolladores han colaborado sin pisarse el trabajo mutuamente.
 
 ---
-
-¿Quieres que prepare este ejemplo en un proyecto mínimo de archivos que puedas probar localmente?
